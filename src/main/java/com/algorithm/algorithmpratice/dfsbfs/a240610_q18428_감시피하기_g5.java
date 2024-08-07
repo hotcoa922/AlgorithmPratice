@@ -1,4 +1,4 @@
-package com.algorithm.algorithmpratice;
+package com.algorithm.algorithmpratice.dfsbfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
